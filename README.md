@@ -1,6 +1,12 @@
 ### Hi there 👋 I'm Yagmur Altug.
 
- I'm a junior software developer from Turkey.
+<strong>I'm a junior software developer from Turkey.</strong>
+
+- 📫 How to reach me: ...
+<p align="center">
+ <a href="https://www.linkedin.com/in/yagmur-altug-043ab613a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:yagmuraaltug@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yagmuraaltug&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
