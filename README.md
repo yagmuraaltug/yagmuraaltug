@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Yagmur Altug.
 
 <strong>I'm a junior software developer from Turkey.</strong>
-🌱 I’m currently learning Java, React
+🔭 I’m currently working on Python-Django Ecommerce  Website.
+
 - 📫 How to reach me: ...
 <p align="center">
  <a href="https://www.linkedin.com/in/yagmur-altug-043ab613a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
