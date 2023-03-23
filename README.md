@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yagmur Altug.
 
 <strong>I'm a junior software developer from Turkey.</strong>
-🔭 I’m currently working on Python-Django Ecommerce  Website.
+🔭 I’m currently working with Python & SQL.
 
 - 📫 How to reach me: ...
 <p align="center">
